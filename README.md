@@ -4,7 +4,8 @@
 
 hewo :3 welcome to colorando's source code
 
-warning: i dont use rojo so you gotta depend on the rbxl file
-pull requests are NEEDED cuz i cant code luau well cuh
+### pull requests are NEEDED cuz i cant code luau well cuh
 
-anyways the reason why i decided to make a new repo was because i cant code and i code like shit and thats it have fun and please dont use for malicious purposes.
+anyways the reason why i decided to make a new repo was because i cant code and i code like shit and thats it have fun and PLEASE dont use for malicious purposes.
+
+alot of the code is from Open Flood Test: <https://www.roblox.com/games/2957980554/Open-Flood-Test>
